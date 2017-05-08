@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="aterm-java-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/aterm-java-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/owlapi-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/owlapi-distribution-3.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-cli.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-datatypes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-dig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-explanation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-jena.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-modularity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-owlapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-owlapiv3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-pellint.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-query.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-rules.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/relaxngDatatype.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/xsdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/owlapi-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WonderfulMindBoth/lib/pellet-owlapiv3-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
